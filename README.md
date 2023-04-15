@@ -18,10 +18,11 @@
    </div>
 
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: arthurgamajorgetec@gmail.com">
+    <a href = "mailto: arthurgamajorgetec@gmail.com"> arthurgamajorgetec@gmail.com &emsp;
       <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png">
     </a>
+  <br>
+  Ronin_Kanmuri#5566 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img width="30" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png">
   
 </div>
-  
-![Snake animation](https://github.com/ArthurGamaJorge/ArthurGamaJorge/blob/output/github-contribution-grid-snake.svg)
