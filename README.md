@@ -18,7 +18,7 @@
    </div>
 
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: arthurgamajorgetec@gmail.com"> arthurgamajorgetec@gmail.com &emsp;
+    arthurgamajorgetec@gmail.com &emsp; <a href = "mailto: arthurgamajorgetec@gmail.com">
       <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png">
     </a>
   <br>
