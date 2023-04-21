@@ -19,11 +19,12 @@
   <br>
 
   <h1 align="center">Redes Sociais</h1>
-    arthurgamajorgetec@gmail.com &emsp; <a href = "mailto: arthurgamajorgetec@gmail.com">
+    &emsp; <a href = "mailto: arthurgamajorgetec@gmail.com" target="_blank"> arthurgamajorgetec@gmail.com 
       <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png">
     </a>
   <br>
-  Ronin_Kanmuri#5566 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img width="30" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png">
-  
+     <a href = "https://discordapp.com/users/659238913227096085" target="_blank"> Ronin_Kanmuri#5566      
+      <img width="30" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png">
+    </a>
+
 </div>
