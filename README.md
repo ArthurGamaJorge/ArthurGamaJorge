@@ -26,5 +26,9 @@
      <a href = "https://discordapp.com/users/659238913227096085" target="_blank"> Ronin_Kanmuri#5566      
       <img width="30" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png">
     </a>
+  <br>
+    <a href="https://github.com/ArthutJorge" target="_blank"> Conta de exercícios
+      <img width="30" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png">
+    </a>
 
 </div>
