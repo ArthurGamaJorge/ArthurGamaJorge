@@ -20,7 +20,7 @@
 
   <h1 align="center">Redes Sociais</h1>
     &emsp; <a href = "mailto: arthurgamajorgetec@gmail.com" target="_blank"> arthurgamajorgetec@gmail.com 
-      <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png">
+      <img width="30" src="https://github.com/ArthurGamaJorge/ArthurGamaJorge/assets/129080603/cfb84f61-fe26-4c51-827e-2088fd3e7863">
     </a>
   <br>
      <a href = "https://discordapp.com/users/659238913227096085" target="_blank"> Ronin_Kanmuri#5566      
