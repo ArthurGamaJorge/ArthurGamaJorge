@@ -28,7 +28,7 @@
     </a>
   <br>
     <a href="https://github.com/ArthutJorge" target="_blank"> Conta de exercícios
-      <img width="30" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png">
+      <img width="30" src="https://github.com/ArthurGamaJorge/ArthurGamaJorge/assets/129080603/f0beda54-acf8-4b21-be66-860611261826">
     </a>
 
 </div>
