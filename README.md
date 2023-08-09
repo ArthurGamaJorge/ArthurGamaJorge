@@ -13,6 +13,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="40" width="40" alt="microsoftsqlserver-icon" src="https://img.icons8.com/color/512/microsoft-sql-server.png">
+    <img align="center" height="40" width="40" alt="Java-icon" src="https://github.com/ArthutJorge/ArthutJorge/assets/141682121/e741d6f1-97d9-43ee-b0a9-4a731167f579">
    </div>
   
   <br>
