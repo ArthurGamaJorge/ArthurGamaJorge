@@ -8,12 +8,15 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="40" width="40" alt="microsoftsqlserver-icon" src="https://img.icons8.com/color/512/microsoft-sql-server.png">
-    <img align="center" height="40" width="40" alt="Java-icon" src="https://github.com/ArthutJorge/ArthutJorge/assets/141682121/e741d6f1-97d9-43ee-b0a9-4a731167f579">
+    <img align="center" height="40" width="auto" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="40" width="auto" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="40" width="auto" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" height="40" width="auto" alt="react-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+    <img align="center" height="40" width="auto" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="40" width="auto" alt="microsoftsqlserver-icon" src="https://img.icons8.com/color/512/microsoft-sql-server.png">
+    <img align="center" height="40" width="auto" alt="Java-icon" src="https://github.com/ArthutJorge/ArthutJorge/assets/141682121/e741d6f1-97d9-43ee-b0a9-4a731167f579">
+    <img align="center" height="40" width="auto" alt="C#-icon" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">
+     
    </div>
   
   <br>
